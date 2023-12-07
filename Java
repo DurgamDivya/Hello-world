@@ -1,0 +1,11 @@
+public class main{
+string product = "soap";
+int price = 50;
+public static void main(String[] args) {
+main myObj=new main();
+
+
+system.out.println (myObj.price);
+system. out. println (myObj.product) ;
+}
+}
